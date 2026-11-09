@@ -1,0 +1,11 @@
+TV ANRATH – BIERKISTENMANAGER ALS IPHONE WEB-APP
+
+1. Alle Dateien dieses Ordners zusammen auf einen HTTPS-Webhost hochladen (z. B. GitHub Pages).
+2. Die veröffentlichte URL /index.html in Safari auf dem iPhone öffnen.
+3. Teilen → Zum Home-Bildschirm → Hinzufügen.
+4. App über das Home-Bildschirm-Symbol starten. Nach dem ersten erfolgreichen Laden sind die App-Dateien offline verfügbar.
+5. Regelmäßig „Backup sichern“ verwenden und die JSON-Datei sicher in Dateien/iCloud Drive ablegen. Mit „Backup laden“ lässt sie sich zurückspielen.
+
+ACHTUNG: Daten liegen lokal im Speicher der installierten Web-App. Edge, Safari und die Home-Bildschirm-App können getrennte Speicher haben. Die bisherigen Daten aus einer lokal geöffneten HTML-Datei werden nicht automatisch übertragen. Vor Browserwechsel, Gerätewechsel oder Löschen der App unbedingt Backup sichern.
+
+GitHub Pages ist öffentlich erreichbar, auch wenn die Nutzdaten lokal gespeichert bleiben. Keine vertraulichen Daten in den HTML-Quellcode schreiben. Für private Nutzung ohne öffentliche URL einen privaten HTTPS-Host verwenden.
