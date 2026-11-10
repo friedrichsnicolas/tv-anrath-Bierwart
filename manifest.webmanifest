@@ -1,7 +1,7 @@
 {
-  "name": "TV Anrath Bierkistenmanager",
-  "short_name": "Bierkisten",
-  "description": "Private Bierkisten- und Strafkistenverwaltung",
+  "name": "Bierwart – TV Anrath Handball",
+  "short_name": "Bierwart",
+  "description": "Private Bierkisten- und Strafkistenverwaltung des TV Anrath",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
@@ -10,15 +10,15 @@
   "icons": [
     {
       "src": "icon-192.png",
-      "sizes": "192x192",
+      "sizes": "128x128",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "icon-512.png",
-      "sizes": "512x512",
+      "sizes": "128x128",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
