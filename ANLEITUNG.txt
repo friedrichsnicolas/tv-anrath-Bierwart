@@ -9,3 +9,7 @@ TV ANRATH – BIERKISTENMANAGER ALS IPHONE WEB-APP
 ACHTUNG: Daten liegen lokal im Speicher der installierten Web-App. Edge, Safari und die Home-Bildschirm-App können getrennte Speicher haben. Die bisherigen Daten aus einer lokal geöffneten HTML-Datei werden nicht automatisch übertragen. Vor Browserwechsel, Gerätewechsel oder Löschen der App unbedingt Backup sichern.
 
 GitHub Pages ist öffentlich erreichbar, auch wenn die Nutzdaten lokal gespeichert bleiben. Keine vertraulichen Daten in den HTML-Quellcode schreiben. Für private Nutzung ohne öffentliche URL einen privaten HTTPS-Host verwenden.
+
+ABGLEICH ÜBER MEHRERE GERÄTE: Oben auf „Abgleich“ tippen und mit dem Konto anmelden (gleiches Konto wie Zeitwerk). Einrichtung der Cloud siehe backend/SETUP.md. Ohne Anmeldung bleibt alles wie bisher nur auf dem Gerät.
+
+LOGO UND ICONS: tools/build_logo.py baut das Vereinslogo als Vektorgrafik (tv-anrath-logo.svg) und alle App-Icons neu.
